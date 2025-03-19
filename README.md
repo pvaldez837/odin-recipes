@@ -1,4 +1,6 @@
 # README
+Click [HERE](https://pvaldez837.github.io/odin-recipes/)
+
 ## What is the current project?
 - Creating a simple website of recipes
 
